@@ -1,0 +1,20 @@
+IGRIS-C Application
+Copyright (c) 2026 ROBROS Inc. All rights reserved.
+The application itself is licensed under the terms in LICENSE.
+
+Third-Party Software
+--------------------
+
+1. Pretendard font (https://github.com/orioncactus/pretendard)
+   Copyright (c) 2021, Kil Hyung-jin, with Reserved Font Name 'Pretendard'.
+   Licensed under the SIL Open Font License, Version 1.1.
+   The font files bundled in the application also contain:
+   - Source: Copyright 2014-2021 Adobe, with Reserved Font Name 'Source'.
+   - Inter: Copyright (c) 2016 The Inter Project Authors, with Reserved Font Name 'Inter'.
+   - M PLUS 1: Copyright 2021 The M+ FONTS Project Authors, with Reserved Font Name 'M PLUS 1'.
+   The full license text is bundled in the application package.
+
+2. Flutter framework and Dart packages
+   The notices of the Flutter framework and of the Dart packages used by the
+   application (for example flutter_bloc, http, flutter_blue_plus) are bundled in
+   the application package, each under its own license.

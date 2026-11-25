@@ -1,0 +1,19 @@
+IGRIS-C Application
+Copyright (c) 2026 ROBROS Inc. All rights reserved.
+
+This software is proprietary to ROBROS Inc. and is provided only in binary form
+(Android application package) for operating IGRIS-C robots.
+
+Permission is granted to install and use the application for operating
+IGRIS-C robots. Except as expressly permitted in this license or by applicable
+law, you may not copy, redistribute, sublicense, sell, modify, decompile or
+reverse engineer the application. The source code is not published.
+
+Third-party components bundled with the application are licensed separately by
+their respective owners. See the NOTICE file.
+
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL ROBROS
+INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE
+OF THE APPLICATION.
